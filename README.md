@@ -16,7 +16,7 @@ https://www.markdownguide.org/cheat-sheet/
 
 
 
-##Topics
-git ignore
-Asure DevOps use
-Work flow
+## Topics
+* git ignore
+* Asure DevOps use
+* Work flow
