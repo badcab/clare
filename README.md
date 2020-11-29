@@ -13,3 +13,10 @@ https://www.markdownguide.org/cheat-sheet/
 - [ ] mike to merge changes in and check the make a conflict item
 - [ ] MAKE A CONFLICT - mike to check this box after clare checks out the second time
 - [ ] have Clare check this box after her first PR and the she will breate another
+
+
+
+##Topics
+git ignore
+Asure DevOps use
+Work flow
